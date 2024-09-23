@@ -13,7 +13,8 @@ font-size: 35px;}
 
 p {font-style: italic;}
 
-ul {border: 10px;
+ul {border-style: solid;
+  border-spacing: 50px;
 font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
