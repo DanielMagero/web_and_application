@@ -1,0 +1,21 @@
+/*MUGULO DANIEL MAGERO
+The CSS file*/
+
+h1 {color: red;
+font-size: 60px;}
+
+h2 {font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-weight: lighter;}
+
+h3 {background-color: blue;
+color: white;
+font-size: 35px;}
+
+p {font-style: italic;}
+
+ul {border: 10px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+img {border-radius: 10px;}
+
