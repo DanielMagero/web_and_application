@@ -13,13 +13,16 @@ font-size: 35px;}
 
 p {font-style: italic;}
 
-ul {border-style: solid;
+ul.king {font-size: 50px;
+  background-color: gray;
+}
+
+ul.queen {border-style: solid;
   border-spacing: 50px;
 font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 img {border-radius: 10px;}
 
-section {font-size: 50px;
-}
+
 
