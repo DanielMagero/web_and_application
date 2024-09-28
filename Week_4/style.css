@@ -1,5 +1,6 @@
 body {
   background-color: rgb(252, 252, 252);
+  margin: 50px;
 }
 
 h1 {
@@ -16,9 +17,12 @@ p.one {
   color: hsl(50, 40, 50);
 }
 
-p.two {
+#two {
   color: rgba(28, 27, 129, 0.651);
   background-color: rgba(223, 223, 223, 0.545);
+  border-left: 10px solid;
+  /*margin: 5px;*/
+  padding: 20px;
 }
 
 #first {
@@ -27,4 +31,10 @@ p.two {
 
 #second {
   background-color: blueviolet;
+}
+
+ul {
+  border: 10px solid;
+  padding-top: 20px;
+  padding-right: 50px;
 }
