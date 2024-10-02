@@ -1,0 +1,12 @@
+h1 {
+  color: aliceblue;
+}
+
+#one {
+  background-color: white;
+}
+
+#two {
+  font: italic;
+  font-weight: 1000;
+}
